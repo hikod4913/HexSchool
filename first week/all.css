@@ -144,12 +144,12 @@ table {
 }
 h2 {
 	font-size: 32px;
-	font-family: "蘋方-繁";
+	font-family: "蘋方-繁",sans-serif;
 }
 span {
 	font-size: 24px;
 	color: #a00404;
-	font-family: "roboto";
+	font-family: "roboto",sans-serif;
 	font-weight: medium;
 }
 .circle {
@@ -170,7 +170,7 @@ span {
 	padding-left: 16px;
 }
 .font{
-	font-family: "蘋方-繁";
+	font-family: "蘋方-繁",sans-serif;
     font-weight: lighter;
 }
 .container h1 {
@@ -178,7 +178,7 @@ span {
 	line-height: 90px;
 	margin-top: 48px;
 	font-size: 80px;
-	font-family: "Andale Mono";
+	font-family: "Andale Mono",sans-serif;
 	margin-bottom: 72px;
 }
 .container h1:before,
@@ -308,7 +308,7 @@ img {
 .skills ul li {
 	font-size: 24px;
 	line-height: 32px;
-	font-family: "Roboto";
+	font-family: "Roboto",sans-serif;
 	font-weight: lighter;
 	margin-bottom: 16px;
 }
